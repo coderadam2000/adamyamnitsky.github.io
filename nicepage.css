@@ -36357,7 +36357,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 116px;
+  min-height: 138px;
 }
 
 .u-header .u-menu-1 {
@@ -36376,10 +36376,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-btn-1 {
-  background-image: none;
-  border-style: none none solid;
-  margin: 16px auto 17px;
-  padding: 0;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 16px auto 24px;
 }
 
 
