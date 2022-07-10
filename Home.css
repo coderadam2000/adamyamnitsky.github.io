@@ -859,6 +859,14 @@
   margin-left: auto;
 }
 
+.u-section-4 .u-input-3 {
+  font-size: 1.25rem;
+}
+
+.u-section-4 .u-form-group-4 {
+  margin-left: auto;
+}
+
 .u-section-4 .u-btn-1 {
   background-image: none;
   border-style: solid;
@@ -926,7 +934,7 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 682px;
+    min-height: 100px;
   }
 
   .u-section-4 .u-layout-cell-2 {
@@ -947,7 +955,6 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 100px;
     order: 1;
   }
 
